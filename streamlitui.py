@@ -73,7 +73,7 @@ def main():
 
     st.divider()
     st.markdown(
-        "Source code: [Github](https://github.com/ayyazzafar/practice_ai_python_langchain_sitegpt)")
+        "AyyazTech")
 
 
 if __name__ == "__main__":
